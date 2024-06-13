@@ -1,7 +1,7 @@
-import { useContext, useEffect, useState } from 'react'
+import { useContext, useState } from 'react'
 import { NewsContext } from '../context/ContextProvider'
-import { Card } from '../components/Card'
 import { Link } from 'react-router-dom'
+import { CardNew } from '../components/CardNew'
 
 export const NewsList = () => {
 	const { state, dispatch } = useContext(NewsContext)
@@ -68,7 +68,7 @@ export const NewsList = () => {
 			<section>
 				{state.newsList.map((news) => (
 					<Link to={`/news/${news.id}`} key={news.id}>
-						<Card news={news} />
+						<CardNew news={news} />
 					</Link>
 				))}
 			</section>

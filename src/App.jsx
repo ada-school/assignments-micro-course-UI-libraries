@@ -13,7 +13,6 @@ export const App = () => {
 				<NavBar />
 				<Routes>
 					<Route path='/' element={<Home />} />
-					<Route path='/about' element={<AboutUs />} />
 					<Route path='/news' element={<NewsList />} />
 					<Route path='/news/:id' element={<NewDetail />} />
 				</Routes>
