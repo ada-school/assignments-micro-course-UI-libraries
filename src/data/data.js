@@ -7,7 +7,8 @@ export const noticias = [
 		previewText:
 			'Nuevas tecnologías de baterías prometen revolucionar la industria.',
 		date: '2024-06-06',
-		imageURL: 'https://example.com/bateria.jpg',
+		imageURL:
+			'https://media.ada-school.org/5fcd3ac12b22eab4d301d819/64341b68339e6a75c738ef01/dall_e_2024_06_13_08_44_06___a_simple_and_realistic_image_representing_new_battery_technologies__show_a_basic_depiction_of_a_solid_state_battery_next_to_a_traditional_lithium_ion_-a8e1b08b-6022-4a21-9328-8df9c2c2c369.webp',
 	},
 	{
 		id: 2,
@@ -16,7 +17,8 @@ export const noticias = [
 		category: 'sports',
 		previewText: 'Nuevo récord mundial en los 100 metros planos establecido.',
 		date: '2024-06-06',
-		imageURL: 'https://example.com/record.jpg',
+		imageURL:
+			'https://media.ada-school.org/5fcd3ac12b22eab4d301d819/64341b68339e6a75c738ef01/dall_e_2024_06_12_12_19_45___a_realistic_and_simple_illustration_of_a_world_record_being_set_in_the_100_meters_sprint__the_athlete_is_crossing_the_finish_line_with_a_visible_time_-402ddf37-3ce8-4366-a14e-de326148142b.jpg',
 	},
 	{
 		id: 3,
@@ -26,7 +28,8 @@ export const noticias = [
 		previewText:
 			'Nueva terapia para el Alzheimer ofrece esperanza a pacientes.',
 		date: '2024-06-06',
-		imageURL: 'https://example.com/alzheimer.jpg',
+		imageURL:
+			'https://media.ada-school.org/5fcd3ac12b22eab4d301d819/64341b68339e6a75c738ef01/dall_e_2024_06_12_12_20_46___a_realistic_and_simple_illustration_of_a_promising_new_therapy_for_alzheimer_s_treatment_being_announced_by_scientists__the_scene_shows_scientists_in_-1c9c4d1f-fee7-4521-97a5-23ed5f278529.webp',
 	},
 	{
 		id: 4,
@@ -35,7 +38,8 @@ export const noticias = [
 		category: 'economy',
 		previewText: 'Aumentos del salario mínimo anunciados en varios países.',
 		date: '2024-06-06',
-		imageURL: 'https://example.com/salario.jpg',
+		imageURL:
+			'https://media.ada-school.org/5fcd3ac12b22eab4d301d819/64341b68339e6a75c738ef01/dall_e_2024_06_13_08_50_15___a_very_simple_and_minimalist_image_representing_significant_increases_in_minimum_wage_announced_by_various_countries__the_image_shows_a_stylized_upwar-cc9bf65e-bc9b-4ae9-b35d-74a435f0d010.webp',
 	},
 	{
 		id: 5,
@@ -44,7 +48,8 @@ export const noticias = [
 		category: 'entertainment',
 		previewText: 'Nueva película de ciencia ficción llega a los cines.',
 		date: '2024-06-06',
-		imageURL: 'https://example.com/pelicula.jpg',
+		imageURL:
+			'https://media.ada-school.org/5fcd3ac12b22eab4d301d819/64341b68339e6a75c738ef01/dall_e_2024_06_13_09_03_01___a_horizontal_movie_poster_without_text_representing_a_highly_anticipated_science_fiction_film__the_scene_is_spectacular__featuring_impressive_visual_e-095a737d-2bd0-4f2a-81bf-ba00afe64c92.webp',
 	},
 	{
 		id: 6,
@@ -53,7 +58,8 @@ export const noticias = [
 		category: 'technology',
 		previewText: 'Avances significativos en inteligencia artificial avanzada.',
 		date: '2024-06-07',
-		imageURL: 'https://example.com/ia.jpg',
+		imageURL:
+			'https://media.ada-school.org/5fcd3ac12b22eab4d301d819/64341b68339e6a75c738ef01/dall_e_2024_06_13_08_57_35___a_realistic_and_simple_square_image_representing_significant_advancements_in_artificial_intelligence__ai___the_image_features_a_researcher_working_on_-5d289a51-a2e4-41af-87ca-b7caf6402525.webp',
 	},
 	{
 		id: 7,
@@ -62,7 +68,8 @@ export const noticias = [
 		category: 'sports',
 		previewText: 'Emocionante final del campeonato mundial de fútbol.',
 		date: '2024-06-07',
-		imageURL: 'https://example.com/futbol.jpg',
+		imageURL:
+			'https://media.ada-school.org/5fcd3ac12b22eab4d301d819/64341b68339e6a75c738ef01/dall_e_2024_06_13_09_07_51___a_realistic_and_celebratory_image_of_a_person_lifting_the_world_cup_trophy_after_the_conclusion_of_the_football_championship__the_person_is_standing_a-c74d43ce-bf0e-4427-9ee0-c8cac4e73077.webp',
 	},
 	{
 		id: 8,
@@ -71,7 +78,8 @@ export const noticias = [
 		category: 'health',
 		previewText: 'Nuevos tratamientos para la diabetes tipo 2 en desarrollo.',
 		date: '2024-06-07',
-		imageURL: 'https://example.com/diabetes.jpg',
+		imageURL:
+			'https://media.ada-school.org/5fcd3ac12b22eab4d301d819/64341b68339e6a75c738ef01/dall_e_2024_06_13_09_15_49___a_realistic_and_hopeful_image_depicting_a_team_of_researchers_developing_new_treatments_for_type_2_diabetes__the_scene_shows_a_group_of_scientists_in_-030d915f-600a-438c-8ce7-7675d857d090.webp',
 	},
 	{
 		id: 9,
@@ -80,7 +88,8 @@ export const noticias = [
 		category: 'economy',
 		previewText: 'Reformas fiscales buscan impulsar el crecimiento económico.',
 		date: '2024-06-07',
-		imageURL: 'https://example.com/fiscal.jpg',
+		imageURL:
+			'https://media.ada-school.org/5fcd3ac12b22eab4d301d819/64341b68339e6a75c738ef01/dall_e_2024_06_13_09_21_17___a_minimalist_and_data_driven_image_illustrating_the_impact_of_significant_fiscal_reforms_implemented_by_various_countries__the_image_features_graphs_a-e35778f6-e907-4eec-b039-dd3dafa883ca.jpg',
 	},
 	{
 		id: 10,
@@ -89,7 +98,8 @@ export const noticias = [
 		category: 'entertainment',
 		previewText: 'Estrellas de la música se unen en concierto benéfico.',
 		date: '2024-06-07',
-		imageURL: 'https://example.com/concierto.jpg',
+		imageURL:
+			'https://media.ada-school.org/5fcd3ac12b22eab4d301d819/64341b68339e6a75c738ef01/dall_e_2024_06_13_11_20_09___a_promotional_poster_for_a_benefit_concert_featuring_some_of_the_biggest_stars_in_music__the_scene_is_set_in_a_packed_stadium_with_a_vibrant_atmospher-422b9fe8-3d0b-4212-b137-8118657ae925.webp',
 	},
 	{
 		id: 11,
@@ -98,7 +108,8 @@ export const noticias = [
 		category: 'technology',
 		previewText: 'Nuevas innovaciones en la tecnología de drones.',
 		date: '2024-06-08',
-		imageURL: 'https://example.com/drones.jpg',
+		imageURL:
+			'https://media.ada-school.org/5fcd3ac12b22eab4d301d819/64341b68339e6a75c738ef01/dall_e_2024_06_13_11_22_09___a_realistic_image_showcasing_recent_innovations_in_drone_technology_across_various_industries__the_image_features_small__lightweight__and_efficient_dr-c8d66e0b-24ff-4dbe-80ff-a20c976371a7.webp',
 	},
 	{
 		id: 12,
@@ -107,7 +118,8 @@ export const noticias = [
 		category: 'sports',
 		previewText: 'Equipo local gana el campeonato nacional de baloncesto.',
 		date: '2024-06-08',
-		imageURL: 'https://example.com/baloncesto.jpg',
+		imageURL:
+			'https://media.ada-school.org/5fcd3ac12b22eab4d301d819/64341b68339e6a75c738ef01/dall_e_2024_06_13_11_23_57___a_realistic_and_celebratory_image_showcasing_the_local_basketball_team_winning_the_national_championship__the_scene_captures_the_team_s_joy_and_excite-0aba82c2-4f66-4767-bc4d-c30f0acc0453.webp',
 	},
 	{
 		id: 13,
@@ -116,7 +128,8 @@ export const noticias = [
 		category: 'health',
 		previewText: 'Nueva vacuna contra la gripe demuestra alta eficacia.',
 		date: '2024-06-08',
-		imageURL: 'https://example.com/vacuna.jpg',
+		imageURL:
+			'https://media.ada-school.org/5fcd3ac12b22eab4d301d819/64341b68339e6a75c738ef01/dall_e_2024_06_13_09_21_17___a_minimalist_and_data_driven_image_illustrating_the_impact_of_significant_fiscal_reforms_implemented_by_various_countries__the_image_features_graphs_a-e35778f6-e907-4eec-b039-dd3dafa883ca.jpg',
 	},
 	{
 		id: 14,
@@ -125,7 +138,8 @@ export const noticias = [
 		category: 'economy',
 		previewText: 'Mercados globales reaccionan a recientes cambios políticos.',
 		date: '2024-06-08',
-		imageURL: 'https://example.com/mercados.jpg',
+		imageURL:
+			'https://media.ada-school.org/5fcd3ac12b22eab4d301d819/64341b68339e6a75c738ef01/dall_e_2024_06_13_11_29_49___a_simple_and_clear_image_representing_the_global_financial_markets_reacting_to_recent_political_changes__the_image_features_a_colorful_graph_with_sign-c5830bd5-b75c-455b-bef7-cb5b404149a2.webp',
 	},
 	{
 		id: 15,
@@ -134,7 +148,8 @@ export const noticias = [
 		category: 'entertainment',
 		previewText: 'Festival de música anual reúne a miles de fanáticos.',
 		date: '2024-06-08',
-		imageURL: 'https://example.com/festival.jpg',
+		imageURL:
+			'https://media.ada-school.org/5fcd3ac12b22eab4d301d819/64341b68339e6a75c738ef01/dall_e_2024_06_13_11_37_36___a_highly_realistic_and_minimalistic_image_representing_an_annual_music_festival_in_an_outdoor_park__the_scene_shows_a_crowd_of_attendees_enjoying_live-f19c81c4-77b2-4f42-85c5-87fd172d8c88.webp',
 	},
 	{
 		id: 16,
