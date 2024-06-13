@@ -1,10 +1,10 @@
 import { createContext, useReducer } from 'react'
-import { noticias } from '../data/data'
+import { news } from '../data/data'
 import { newsReducer } from '../reducer/newsReducer'
 
 export const NewsContext = createContext()
 const initialState = {
-	newsList: noticias,
+	newsList: news,
 	newDetail: {},
 }
 export const ContextProvider = ({ children }) => {

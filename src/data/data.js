@@ -1,4 +1,4 @@
-export const noticias = [
+export const news = [
 	{
 		id: 1,
 		title: 'Avances en la tecnología de baterías',
