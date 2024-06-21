@@ -1,6 +1,5 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import { Home } from './pages/Home'
-import { AboutUs } from './pages/AboutUs'
 import { NewsList } from './pages/NewsList'
 import { NavBar } from './components/NavBar'
 import { NewDetail } from './pages/NewDetail'

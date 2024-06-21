@@ -1,9 +1,9 @@
-import { noticias } from '../data/data'
+import { news } from '../data/data'
 
 export function newsReducer(state, action) {
 	switch (action.type) {
 		case 'GET_DETAIL':
-			const newDetail = noticias.find((news) => news.id == action.payload)
+			const newDetail = news.find((news) => news.id == action.payload)
 			return {
 				...state,
 				newDetail,
@@ -17,9 +17,9 @@ export function newsReducer(state, action) {
 
 		case 'GET_NEWS':
 			if (!action.payload.length) {
-				return { ...state, newsList: noticias }
+				return { ...state, newsList: news }
 			} else {
-				const newsFiltered = noticias.filter((news) =>
+				const newsFiltered = news.filter((news) =>
 					action.payload.includes(news.category)
 				)
 

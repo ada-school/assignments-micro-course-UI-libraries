@@ -1,4 +1,4 @@
-export const Card = ({ news }) => {
+export const CardNew = ({ news }) => {
 	return (
 		<>
 			<h3>{news.title}</h3>

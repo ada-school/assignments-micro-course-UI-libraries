@@ -30,7 +30,7 @@ export const NewsList = () => {
 				/>
 			</label>
 			<label htmlFor='sports'>
-				deporte
+				Deporte
 				<input
 					type='checkbox'
 					id='sports'
@@ -39,7 +39,7 @@ export const NewsList = () => {
 				/>
 			</label>
 			<label htmlFor='health'>
-				salud
+				Salud
 				<input
 					type='checkbox'
 					id='health'
@@ -48,7 +48,7 @@ export const NewsList = () => {
 				/>
 			</label>
 			<label htmlFor='economy'>
-				economia
+				Economia
 				<input
 					type='checkbox'
 					id='economy'
